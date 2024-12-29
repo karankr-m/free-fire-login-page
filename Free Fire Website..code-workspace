@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Free Fire Website",
+			"path": "../../../Downloads/Free Fire Website"
+		},
+		{
+			"name": "free fire",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Free Fire Website",
+		"liveServer.settings.port": 5501
+	}
+}
